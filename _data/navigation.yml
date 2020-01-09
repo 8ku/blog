@@ -52,4 +52,4 @@ header:
 
 docs-en:
       title:      summary
-      permalink: /:title.html
+      url: /:title.html
