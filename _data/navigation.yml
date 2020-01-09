@@ -51,7 +51,5 @@ header:
 
 
 docs-en:
-  - title:      summary
-    children:
-      - title:  page.title
-        url:    page.url
+title:      summary
+permalink: /:title
