@@ -51,5 +51,11 @@ header:
 
 
 docs-en:
-      title:      summary
-      url: /:title.html
+      -
+        scope:
+            path:   "/page/:num"
+            type:   "posts"
+        values:
+            layout: "post"
+
+      
