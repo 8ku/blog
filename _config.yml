@@ -22,7 +22,7 @@ url     : # the base hostname & protocol for your site e.g. https://www.someone.
 baseurl : # does not include hostname
 title   : Just someone.
 description: > # this means to ignore newlines until "Language & timezone"
-Hey, you. 
+  Hey, you. 
 ## => Language and Timezone
 ##############################
 lang: en,en-US,zh-Hans,zh,zh-CN # the language of your site, default as "en"
