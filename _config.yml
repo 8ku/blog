@@ -21,9 +21,7 @@ highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "t
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
 title   : Just someone.
-description: > # this means to ignore newlines until "Language & timezone"
-  Hey, you.
-
+description: > Hey, you. # this means to ignore newlines until "Language & timezone"
 
 ## => Language and Timezone
 ##############################
@@ -39,7 +37,7 @@ author:
   url       :
   avatar    : # path or url of avatar image (square)
   bio       : Just a person.
-  email     :
+  email     : 
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
