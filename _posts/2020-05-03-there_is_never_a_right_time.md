@@ -13,3 +13,6 @@ I didn't afriaid about speaking English until I have to.
 
 “好像我们越长大越害怕犯错呢”, 当我说害怕到抗拒时, 得到了这样的回复, 突然感觉很宽心.
 
+发现一个有趣的图腾 [the man in the Maze]([https://en.wikipedia.org/wiki/I%27itoi](https://en.wikipedia.org/wiki/I'itoi))
+
+![image-20200430122738743](assets/images/2020/5/TheManInTheMaze.jpg)
