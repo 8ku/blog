@@ -31,3 +31,9 @@ key: page-about
 自留地而已，平时胡言乱语的树洞。
 
 感谢GitHub。
+
+- [读书笔记](https://8ku.github.io/notes/)
+
+- [其他乱七八糟的笔记](https://8ku.github.io/note_other/)
+
+- [game things](https://bakumatata.fun/)
