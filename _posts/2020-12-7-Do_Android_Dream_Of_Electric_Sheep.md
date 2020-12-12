@@ -4,7 +4,7 @@ title: Do Android dream of electric sheep?
 tags: 闷墩儿
 ---
 
-两天把<仿生人会梦到电子羊吗>看完了.
+两天把 *仿生人会梦到电子羊吗* 看完了.
 
  <!--more-->
 
