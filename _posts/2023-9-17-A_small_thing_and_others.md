@@ -1,3 +1,11 @@
+---
+layout: article
+title: A small thing and others
+tags:
+  - 絮絮叨叨
+---
+
+
 Today is the second day after I finished my first IELTS exam. I have a long TO-DO list that I have to finish this year:
 - Practising writing
 - Keep practise speaking
@@ -10,4 +18,5 @@ Fortunately, there was a shop near my home which had a great reputation where I 
 
 Also, I saw a great quote on Twitter tonight that I wanted to **jot down**.
 > Some children are raised by themselves. In their process of maturing, their parents are in a state of "ignorance". They don't provide spiritual guidance, nor material support. So until they enter society, they are in a state of chaos. The only rule they learn is "obey". The only method they learn is "everyone else done it". They never examine their own **uniqueness**. Such children either take it and become like their parents. Or if they are unwilling, they have to raise themselves again. 
+> 
 > They have to shatter their former selves, and find clear fragments that belong to themselves, mold themselves anew, relearn interpersonal rules, societal norms, establish their own set of principles, polish themselves bit by bit, fill in the gaps bit by bit.
