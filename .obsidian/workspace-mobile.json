@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-5-31-学习笔记.md",
+                "file": "_posts/2025-6-3-Quotes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-5-31-学习笔记"
+              "title": "2025-6-3-Quotes"
             }
           }
         ]
@@ -156,6 +156,7 @@
   "active": "b874b8ff5a9b12e8",
   "lastOpenFiles": [
     "_posts/2025-5-30-Quotes.md",
+    "_posts/2025-6-3-Quotes.md",
     "_posts/2025-5-31-学习笔记.md",
     "_posts/2025-5-20-Quotes.md",
     "_posts/2023-9-17-A_small_thing_and_others.md",
@@ -199,7 +200,6 @@
     "docs/_docs/en/1.2-structure.md",
     "docs/_docs/en/4.2-grid.md",
     "docs/_docs/en/2.5-authors.md",
-    "docs/_docs/en/4.3-icons.md",
-    "docs/_docs/en/4.6-item.md"
+    "docs/_docs/en/4.3-icons.md"
   ]
 }
