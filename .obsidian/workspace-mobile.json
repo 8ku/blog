@@ -11,14 +11,10 @@
             "id": "b874b8ff5a9b12e8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2025-5-31-学习笔记.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-5-31-学习笔记"
+              "title": "New tab"
             }
           }
         ]
@@ -155,9 +151,9 @@
   },
   "active": "b874b8ff5a9b12e8",
   "lastOpenFiles": [
+    "_posts/2025-5-31-学习笔记.md",
     "_posts/2025-6-3-Quotes.md",
     "_posts/2025-5-30-Quotes.md",
-    "_posts/2025-5-31-学习笔记.md",
     "_posts/2025-5-20-Quotes.md",
     "_posts/2023-9-17-A_small_thing_and_others.md",
     "_posts/2025-5-.md",
