@@ -14,3 +14,29 @@ body {
         "Helvetica Neue",
         sans-serif;
 }
+
+h1 {
+    font-size: 1.8rem;
+}
+
+h2 {
+    font-size: 1.5rem;
+}
+
+li {
+    padding: 0.3em 0;
+}
+
+.article__section-navigator {
+    border-top-width: 1px;
+}
+
+.pagination p {
+    font-size: 0.9rem;
+    padding-bottom: 1rem;
+}
+
+.button--circle {
+    background-color: transparent;
+}
+
