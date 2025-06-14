@@ -46,7 +46,7 @@
     display: inline-block;
     width: 100%;
     height: $button-height-lg;
-    padding: 0 2rem;
+    padding: 0 2.3rem;
     margin: 0;
     line-height: 1 !important;
     color: $text-color;
@@ -112,7 +112,7 @@
   }
   & > .search-box__icon-search {
     top: 0;
-    left: 0;
+    left: 4px;
   }
 }
 
