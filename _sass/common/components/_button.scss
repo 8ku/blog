@@ -51,7 +51,7 @@
 }
 
 .button--pagination:focus {
-  border-bottom: 2px solid $text-color-4;
+  border-bottom: 2px solid $text-color-4 !important;
 }
 
 .button--success {
