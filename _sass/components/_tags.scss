@@ -8,6 +8,10 @@
       line-height: 1;
       vertical-align: top;
     }
+    &:focus {
+      border: none !important;
+      color: $text-color-4 !important;
+    }
   }
   .tag-button-1 {
     @include clickable($text-color-1, rgba($main-color-1, .4), default, default, $text-color-2,$main-color-2, $text-color-2,$main-color-2);
