@@ -43,7 +43,7 @@
 }
 
 .button--pagination {
-  color: $text-color-4;
+  color: $text-color-4 !important;
   background-color: $main-color-4;;
   // @include clickable($text-color-4, $main-color-4);
 }
