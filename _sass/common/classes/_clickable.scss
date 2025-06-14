@@ -134,7 +134,7 @@
     @else {
       color: $clr;
       background-color: $bg-clr;
-      border: 2px solid $text-color-4;
+      border: 2px solid rgba($clr, 0.29);
     }
     @if $ignore-path == false {
       svg path {
