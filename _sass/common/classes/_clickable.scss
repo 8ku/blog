@@ -84,7 +84,7 @@
     } @else if $hover-bg-clr == default {
       $focus-clr: $hover-clr;
     }
-  } @else if $focus-clr == null {
+  } @else if $focus-clr == "tag" {
     $focus-clr: $clr;
     border: none;
   }
