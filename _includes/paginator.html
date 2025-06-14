@@ -35,11 +35,11 @@
         {%- if paginator.previous_page -%}
           {%- include snippets/prepend-baseurl.html path=paginator.previous_page_path -%}
           {%- assign _href = __return -%}
-          <li><a class="button button--primary button--circle--pagination" href="{{ _href }}">
+          <li><a class="button button--circle--pagination" href="{{ _href }}">
             <i class="fas fa-angle-left"></i>
           </a></li>
         {%- else -%}
-          <li><div class="button button--primary button--circle--pagination disabled">
+          <li><div class="button button--circle--pagination disabled">
             <i class="fas fa-angle-left"></i>
           </div></li>
         {%- endif -%}

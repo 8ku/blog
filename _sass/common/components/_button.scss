@@ -121,11 +121,11 @@
   @extend .button--md;
 }
 
-.button--pagination {
+.button--circle--pagination {
   @include inline-flex();
   @include justify-content(center);
   @include align-items(center);
-  border-bottom: 2px solid;
+  // border-bottom: 2px solid;
   @extend .button--md;
 }
 
