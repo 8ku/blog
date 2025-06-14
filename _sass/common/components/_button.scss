@@ -44,16 +44,14 @@
 
 .button--pagination {
   color: $text-color-4 !important;
-  background-color: $main-color-4;;
+  background-color: $main-color-4;
   // @include clickable($text-color-4, $main-color-4);
-}
-
-.button--pagination:hover {
-  border-bottom: 2px solid rgba($text-color-4, .4);
-}
-
-.button--pagination:focus {
-  border-bottom: 2px solid $text-color-4 !important;
+  &:hover {
+    border-bottom: 2px solid rgba($text-color-4, .4);
+  }
+  &:focus {
+    border-bottom: 2px solid $text-color-4 !important;
+  }
 }
 
 .button--success {
