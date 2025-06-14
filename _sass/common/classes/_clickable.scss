@@ -94,6 +94,7 @@
     color: $clr;
     @if $bg-clr {
       background-color: $bg-clr;
+      border: 2px solid $main-color-4;
     }
     @if $ignore-path == false {
       svg path {
