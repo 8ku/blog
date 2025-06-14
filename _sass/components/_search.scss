@@ -172,6 +172,9 @@
       @include active() {
         @include transition(map-get($clickable, transition));
       }
+      @include hover() {
+        color: $text-color-3;
+      }
     }
   }
 }

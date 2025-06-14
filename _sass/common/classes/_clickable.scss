@@ -147,6 +147,7 @@
     }
     @if $bg-clr {
       background-color: $bg-clr !important;
+      border:none !important;
     }
     @if $ignore-path == false {
       svg path {
