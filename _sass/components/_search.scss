@@ -160,6 +160,7 @@
       @include plain() {
         color: $text-color-3;
         background-color: $main-color-3;
+        border-bottom: 2px solid $main-color-4;
         .search--light & {
           color: $text-color-theme-dark;
           background-color: $main-color-theme-light;
