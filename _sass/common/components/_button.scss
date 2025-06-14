@@ -29,11 +29,13 @@
 
 .button--secondary--search {
   border: none;
-  @include clickable($text-color-3, $main-color-3);
+  color: $text-color-4;
+  background-color: none;
 }
 
 .button--secondary--search:hover {
   border: none !important;
+  color: $main-color-2 !important;
 }
 
 .button--pagination {
