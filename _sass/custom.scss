@@ -15,6 +15,14 @@ body {
         sans-serif;
 }
 
+.page__header {
+    position: sticky;
+    width: 100%;
+    z-index: 100;
+    top: 0;
+    background-color: $main-color-4;
+}
+
 h1 {
     font-size: 1.8rem;
 }
