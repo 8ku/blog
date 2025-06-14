@@ -38,6 +38,10 @@
   color: $main-color-2 !important;
 }
 
+.button--secondary--search i {
+  font-size: 1.2rem !important;
+}
+
 .button--pagination {
   @include clickable($text-color-4, $main-color-4);
 }
