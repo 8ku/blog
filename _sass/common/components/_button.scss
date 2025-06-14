@@ -46,6 +46,14 @@
   @include clickable($text-color-4, $main-color-4);
 }
 
+.button--pagination:hover {
+  border-bottom: 2px solid $hover-bg-clr;
+}
+
+.button--pagination:focus {
+  border-bottom: 2px solid $clr;
+}
+
 .button--success {
   @include clickable($text-color-function, $green);
 }

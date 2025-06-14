@@ -105,7 +105,6 @@
     color: $hover-clr;
     @if $hover-bg-clr {
       background-color: $bg-clr;
-      border-bottom: 2px solid $hover-bg-clr;
     }
     @if $ignore-path == false {
       svg path {
@@ -128,7 +127,6 @@
     color: $focus-clr;
     @if $focus-bg-clr{
       background-color: $bg-clr;
-      border-bottom: 2px solid $clr;
       // box-shadow: 0 0 0 2px rgba($focus-bg-clr, .4);
     }
     @if $ignore-path == false {
