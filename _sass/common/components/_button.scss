@@ -47,11 +47,11 @@
 }
 
 .button--pagination:hover {
-  border-bottom: 2px solid $hover-bg-clr;
+  border-bottom: 2px solid rgba($text-color-4, .4);
 }
 
 .button--pagination:focus {
-  border-bottom: 2px solid $clr;
+  border-bottom: 2px solid $text-color-4;
 }
 
 .button--success {
