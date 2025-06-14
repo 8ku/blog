@@ -104,7 +104,6 @@
   @include hover() {
     color: $hover-clr;
     @if $hover-bg-clr {
-      // background-color: $hover-bg-clr;
       background-color: $bg-clr;
       border-bottom: 2px solid $hover-bg-clr;
     }
