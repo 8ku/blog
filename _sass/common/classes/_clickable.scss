@@ -116,6 +116,7 @@
     color: $active-clr;
     @if $active-bg-clr {
       background-color: $active-bg-clr;
+      border-bottom: 2px solid $main-color-4;
     }
     @if $ignore-path == false {
       svg path {
