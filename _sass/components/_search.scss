@@ -170,10 +170,11 @@
         }
       }
       @include active() {
-        @include transition(map-get($clickable, transition));
+        // @include transition(map-get($clickable, transition));
+        color: $text-color-4;
       }
       @include hover() {
-        color: $text-color-4;
+        color: $main-color-4;
       }
     }
   }
