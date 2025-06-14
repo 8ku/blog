@@ -27,6 +27,11 @@
   @include clickable($text-color-3, $main-color-3);
 }
 
+.button--secondary--search {
+  border: none;
+  @include clickable($text-color-3, $main-color-3);
+}
+
 .button--pagination {
   @include clickable($text-color-4, $main-color-4);
 }
