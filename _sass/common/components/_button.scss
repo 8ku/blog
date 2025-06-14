@@ -43,8 +43,7 @@
 }
 
 .button--pagination {
-  // @include clickable($text-color-4, $main-color-4);
-  color: $text-color-4;
+  @include clickable($text-color-4, $main-color-4);
 }
 
 .button--pagination:hover {
@@ -52,7 +51,7 @@
 }
 
 .button--pagination:focus {
-  border-bottom: 2px solid $text-color-4;
+  border-bottom: 2px solid $text-color-4 !important;
 }
 
 .button--success {
