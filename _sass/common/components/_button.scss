@@ -125,7 +125,6 @@
   @include inline-flex();
   @include justify-content(center);
   @include align-items(center);
-  // border-bottom: 2px solid;
   @extend .button--md;
 }
 
