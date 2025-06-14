@@ -84,9 +84,6 @@
     } @else if $hover-bg-clr == default {
       $focus-clr: $hover-clr;
     }
-  } @else if $focus-clr == "tag" {
-    $focus-clr: $clr;
-    border: none;
   }
 
   @if $focus-bg-clr == default {
@@ -128,10 +125,14 @@
   }
   @include focus() {
     color: $focus-clr;
-    @if $focus-bg-clr{
+    @if $focus-bg-clr != "tag" {
       background-color: $bg-clr;
       border-bottom: 2px solid $text-color-4;
       // box-shadow: 0 0 0 2px rgba($focus-bg-clr, .4);
+    }
+    @else {
+      $focus-clr: $clr;
+      border: none;
     }
     @if $ignore-path == false {
       svg path {
