@@ -146,6 +146,7 @@
   list-style-type: none;
   a {
     padding: map-get($spacers, 2) map-get($spacers, 3);
+    border: none !important;
     @include transition(none);
     @include clickable($text-color, transparent, $text-color-3, $main-color-3);
     .search--light & {
