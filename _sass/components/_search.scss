@@ -145,7 +145,7 @@
 .search-result__item {
   list-style-type: none;
   a {
-    padding: map-get($spacers, 1) map-get($spacers, 3);
+    padding: map-get($spacers, 2) map-get($spacers, 3);
     @include transition(none);
     @include clickable($text-color, transparent, $text-color-3, $main-color-3);
     .search--light & {
