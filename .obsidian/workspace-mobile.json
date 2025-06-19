@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-6-19-Per_aspera_ad_astra.md",
+                "file": "_posts/2023-09-25-Review my test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-6-19-Per_aspera_ad_astra"
+              "title": "2023-09-25-Review my test"
             }
           }
         ]
@@ -150,13 +150,21 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "b874b8ff5a9b12e8",
   "lastOpenFiles": [
-    "_posts/2025-6-3-Quotes0603.md",
+    "_posts/2025-06-19-.md",
+    "_posts/2023-09-25-Review my test.md",
+    "_posts/2021-5-5-关于做游戏.md",
+    "_posts/2025-5-20-Quotes0520.md",
     "_posts/2025-6-19-Per_aspera_ad_astra.md",
+    "assets/Templates/Date now.md",
+    "assets/Templates/Frontmatter.md",
+    "assets/Templates",
+    "_posts/2025-6-3-Quotes0603.md",
     "_posts/2025-5-31-学习笔记.md",
     "_posts/2025-6-3-Quotes.md",
     "_posts/2025-5-30-Quotes.md",
@@ -164,7 +172,6 @@
     "_posts/2023-9-17-A_small_thing_and_others.md",
     "_posts/2025-5-.md",
     "_posts/2021-4-9-建筑风格.md",
-    "_posts/2023-09-25-Review my test.md",
     "_posts/2023-10-13-guitar.md",
     "_posts/2025-04-06-test.md",
     "_posts/2018-05-01-template.md",
@@ -186,7 +193,6 @@
     "assets/browserconfig.xml",
     "assets/search.js",
     "assets/mstile-150x150.png",
-    "assets/site.webmanifest",
     "assets/android-chrome-512x512.png",
     "assets/mstile-310x150.png",
     "assets/mstile-70x70.png",
@@ -195,11 +201,6 @@
     "README.md",
     "docs/_docs/en/2.1-configuration.md",
     "docs/_docs/en/4.9-swiper.md",
-    "docs/_docs/en/2.7-i18n.md",
-    "docs/_docs/en/2.2-navigation.md",
-    "docs/_docs/en/4.7-card.md",
-    "docs/_docs/en/4.1-spacing.md",
-    "docs/_docs/en/1.2-structure.md",
-    "docs/_docs/en/4.2-grid.md"
+    "docs/_docs/en/2.7-i18n.md"
   ]
 }
