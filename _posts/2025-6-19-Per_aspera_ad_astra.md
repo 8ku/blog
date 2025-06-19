@@ -4,6 +4,8 @@ title: Per Aspera Ad Astra
 tags:
   - phrase
 ---
+
+
 ## Origin
 
 The phrase 'per aspera ad astra' translates to '**through hardships to the stars**' in English. It is a Latin proverb that emphasizes the idea of achieving great things through perseverance and overcoming difficulties.
