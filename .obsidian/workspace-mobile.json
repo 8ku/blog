@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-03-31-Carl-Jung.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/Templates/Frontmatter.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-03-31-Carl-Jung"
+              "title": "Frontmatter"
             }
           }
         ]
@@ -50,7 +50,7 @@
           "type": "search",
           "state": {
             "query": "",
-            "matchingCase": false,
+            "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
             "extraContext": false,
@@ -155,10 +155,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b874b8ff5a9b12e8",
+  "active": "76cc1b22dd0b1499",
   "lastOpenFiles": [
-    "_posts/Untitled.md",
+    "NewPostTemp.md",
+    "_posts/2026-06-14.md",
+    "Untitled.md",
+    "_posts/2026-06-14.md",
+    "assets/Templates/Frontmatter.md",
     "_posts/2026-03-31-Carl-Jung.md",
+    "_posts/2018-05-01-template.md",
     "_posts/2026-04-02.md",
     "_posts/2025-10-15-shadow.md",
     "_posts/2025-07-27-new-experience.md",
@@ -172,7 +177,6 @@
     "_posts/2021-5-5-关于做游戏.md",
     "_posts/2025-5-20-Quotes0520.md",
     "assets/Templates/Date now.md",
-    "assets/Templates/Frontmatter.md",
     "assets/Templates",
     "_posts/2025-5-31-学习笔记.md",
     "_posts/2025-6-3-Quotes.md",
@@ -180,10 +184,6 @@
     "_posts/2025-5-20-Quotes.md",
     "_posts/2023-9-17-A_small_thing_and_others.md",
     "_posts/2025-5-.md",
-    "_posts/2021-4-9-建筑风格.md",
-    "_posts/2023-10-13-guitar.md",
-    "_posts/2025-04-06-test.md",
-    "_posts/2018-05-01-template.md",
     "archive.html",
     "assets/images/2020/5/TheManInTheMaze.jpg",
     "assets/images/2020/4/image-20200430122738743.png",
