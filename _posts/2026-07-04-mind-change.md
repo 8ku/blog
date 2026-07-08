@@ -1,6 +1,6 @@
 ---
 layout: article
-title: When was the last time you changed your mind about something important?
+title: Mind change
 tags:
   - mindPractice
 ---

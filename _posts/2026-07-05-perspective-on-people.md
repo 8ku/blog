@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Have you ever met someone you disliked at first, but later came to respect?
+title: Perspective on People
 tags:
   - mindPractice
 ---
