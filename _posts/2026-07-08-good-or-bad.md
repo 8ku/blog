@@ -5,6 +5,7 @@ tags:
   - mindPractice
 ---
 Q: **Do you think people usually do the right thing because they are good people, or because the situation makes it easy to do the right thing?**
+<!--more-->
 
 I don’t believe there are truly good people in the world. I think people behave differently depending on the situation.
 

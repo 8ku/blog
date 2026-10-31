@@ -6,6 +6,8 @@ tags:
 ---
 Today’s question: **When was the last time you changed your mind about something important? What made you change?**
 
+<!--more-->
+
 I can’t say wether it was an important changed, but something recently changed my mind.
 
 For about five years, I’ve wanted to leave this country. Since then, I’ve tried to avoid becoming more tied to it. For example, I avoided using its most popular apps and looking for work here because I didn’t want to build a future in this country.

@@ -5,6 +5,7 @@ tags:
   - mindPractice
 ---
 Q: **Have you ever met someone you disliked at first, but later came to respect? What changed your opinion?**
+<!--more-->
 
 My old colleague is someone I disliked when we worked together. I was ux designer and she was a ui designer. She was slow to understand things. At the time, I often felt that I had to explain everything we were going to do, which made me feel exhausted.
 

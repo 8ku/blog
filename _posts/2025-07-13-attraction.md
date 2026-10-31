@@ -5,6 +5,7 @@ tags:
   - 絮絮叨叨
 ---
 What traits do you think make someone attractive? Kindness, humor, or maybe cuteness? For me, it’s all about that unexpected charm. It took me a while to identify what I truly find appealing in people, and after watching countless hours of a celebrity videos, I finally got it.
+<!--more-->
 
 If you’re a person with a seemingly precious heart, acting like an angel, — even if it’s genuine —I find that a major turn-off.
 

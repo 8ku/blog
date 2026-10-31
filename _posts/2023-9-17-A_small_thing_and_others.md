@@ -6,11 +6,12 @@ tags:
 ---
 
 
-Today is the second day after I finished my first IELTS exam. I have a long TO-DO list that I have to finish this year:
+Today is the second day after I finished my first IELTS exam. I have a long TO-DO list that I have to finish this year<!--more-->:
 - Practising writing
 - Keep practise speaking
 - Finish the album
 - Finish the Demo of my game
+
 
 An incident occurred today that I really want to record. After the exam, I planned on using my film camera to finish an album which is a present for my friend. However, when I tried to push the shutter, I found out they were not working anymore. I realized that the batteries might be run out. I tried to change the battery but the battery lip was so tight that I couldn't open it without damaging it. Therefore, I had no choice but to take it to a repair shop.
 

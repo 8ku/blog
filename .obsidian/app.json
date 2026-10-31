@@ -1,5 +1,6 @@
 {
   "mobileToolbarCommands": [
+    "insert-template",
     "editor:undo",
     "editor:redo",
     "editor:insert-wikilink",
