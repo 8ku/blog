@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-11-01-new-direction.md",
+                "file": "_posts/2026-10-28-a-day-test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-11-01-new-direction"
+              "title": "2026-10-28-a-day-test"
             }
           }
         ]
@@ -159,8 +159,9 @@
   },
   "active": "23b6bdf840aedc32",
   "lastOpenFiles": [
-    "_posts/2026-10-28-a-day.md",
     "_posts/2026-11-01-new-direction.md",
+    "_posts/2026-10-28-a-day-test.md",
+    "_posts/2026-10-28-a-day.md",
     "_posts/2026-08-27-trivia.md",
     "_posts/2026-07-13-self-loathing.md",
     "_posts/2026-08-23-brain-ai.md",
@@ -184,7 +185,6 @@
     "_posts/2025-10-08-Pathway to Bliss.md",
     "_posts/2025-06-19-.md",
     "_posts/2021-5-5-关于做游戏.md",
-    "_posts/2025-5-20-Quotes0520.md",
     "assets/Templates",
     "archive.html",
     "assets/images/2020/5/TheManInTheMaze.jpg",
