@@ -22,7 +22,7 @@ tags:
 
 ### Today’s phrase
 
-Never ==pegged== you as the ==cues-and-brews== type. 
+Never pegge you as the cues-and-brews type. 
 
 - to **peg**(pin, fasten) someone as something: to classify or judge someone as a certain kind of person
 - **Cues**: a stick to hit the ball in games like snooker or pool
