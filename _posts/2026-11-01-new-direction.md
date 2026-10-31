@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Just Diary
+title: New Direction
 tags:
   - Diary
 ---
