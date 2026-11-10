@@ -7,6 +7,7 @@
     "editor:set-heading",
     "editor:toggle-bold",
     "editor:toggle-highlight",
+    "templater-obsidian:insert-templater",
     "editor:toggle-bullet-list",
     "editor:toggle-numbered-list",
     "editor:indent-list",
@@ -20,7 +21,6 @@
     "editor:toggle-code",
     "editor:insert-link",
     "editor:toggle-checklist-status",
-    "insert-current-date",
     "editor:configure-toolbar"
   ],
   "newFileLocation": "folder",
