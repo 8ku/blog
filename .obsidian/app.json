@@ -7,7 +7,6 @@
     "editor:set-heading",
     "editor:toggle-bold",
     "editor:toggle-highlight",
-    "templater-obsidian:insert-templater",
     "editor:toggle-bullet-list",
     "editor:toggle-numbered-list",
     "editor:indent-list",
