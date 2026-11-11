@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "65f9d177f9fb9529",
+        "id": "047b9cb71f9ce65d",
         "type": "tabs",
         "children": [
           {
-            "id": "9374861671f93660",
+            "id": "1669bba1bc1675f7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2026-11-11-new-toy.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-11-11-new-toy"
             }
           }
         ]
@@ -153,9 +157,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9374861671f93660",
+  "active": "1669bba1bc1675f7",
   "lastOpenFiles": [
+    "_posts/2026-11-11-new-toy.md",
     "_posts/2026-11-09-drawing.md",
+    "assets/Templates/Frontmatter.md",
+    "_posts/2026-11-10.md",
     "_posts/2026-10-31-new-direction.md",
     "_posts/2023-9-17-A_small_thing_and_others.md",
     "_posts/2023-10-13-guitar.md",
@@ -176,11 +183,8 @@
     "_posts/2026-11-01.md",
     "assets/Templates/ReadMore.md",
     "assets/Templates/Date now.md",
-    "assets/Templates/Frontmatter.md",
     "_posts/2026-11-01-test.md",
     "_posts/2026-11-01-new-direction.md",
-    "_posts/2026-06-14.md",
-    "2026-06-14.md",
     "assets/Templates",
     "archive.html",
     "assets/images/2020/5/TheManInTheMaze.jpg",
