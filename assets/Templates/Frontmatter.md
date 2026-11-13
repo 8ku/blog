@@ -2,7 +2,7 @@
 layout: article
 title: <% tp.file.title %>
 tags:
-  - phrase
+  - diary
 ---
 
 <%* await tp.file.rename(tp.date.now("YYYY-MM-DD")) %>
