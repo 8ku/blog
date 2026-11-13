@@ -1,3 +1,56 @@
-<!-- start custom head snippets -->
+<style>
+blockquote.callout {
+  border-left: 4px solid var(--callout-color, #9e9e9e);
+  background: rgba(0,0,0,0.04);
+  border-radius: 4px;
+  padding: 0.6em 1em;
+}
+.callout-title {
+  font-weight: 600;
+  margin-bottom: 0.4em;
+  color: var(--callout-color, #9e9e9e);
+}
+</style>
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  var typeMap = {
+    note:{icon:'📝',color:'#448aff'}, abstract:{icon:'📋',color:'#00bcd4'},
+    info:{icon:'ℹ️',color:'#00b8d4'}, todo:{icon:'✅',color:'#00b8d4'},
+    tip:{icon:'💡',color:'#00bfa5'}, success:{icon:'✔️',color:'#00c853'},
+    question:{icon:'❓',color:'#64dd17'}, warning:{icon:'⚠️',color:'#ff9100'},
+    failure:{icon:'❌',color:'#ff5252'}, danger:{icon:'⚡',color:'#ff1744'},
+    bug:{icon:'🐛',color:'#f50057'}, example:{icon:'📑',color:'#7c4dff'},
+    quote:{icon:'❝',color:'#9e9e9e'}
+  };
 
-<!-- end custom head snippets -->
+  document.querySelectorAll('.article__content blockquote').forEach(function (bq) {
+    var firstP = bq.querySelector('p');
+    if (!firstP) return;
+
+    var html = firstP.innerHTML;
+    var hasBr = /<br\s*\/?>/i.test(html);
+    var parts = hasBr ? html.split(/<br\s*\/?>/i) : [html];
+    var firstLineText = parts[0].replace(/<[^>]+>/g, '').trim();
+    var match = firstLineText.match(/^\[!([a-zA-Z]+)\]([+-]?)\s*(.*)$/);
+    if (!match) return;
+
+    var type = match[1].toLowerCase();
+    var title = match[3].trim() || type.charAt(0).toUpperCase() + type.slice(1);
+
+    if (hasBr && parts.length > 1) {
+      firstP.innerHTML = parts.slice(1).join('<br>');
+    } else {
+      firstP.remove();
+    }
+
+    var conf = typeMap[type] || {icon:'💬', color:'#9e9e9e'};
+    bq.classList.add('callout');
+    bq.style.setProperty('--callout-color', conf.color);
+
+    var titleEl = document.createElement('div');
+    titleEl.className = 'callout-title';
+    titleEl.innerHTML = '<span style="margin-right:0.35em">' + conf.icon + '</span>' + title;
+    bq.insertBefore(titleEl, bq.firstChild);
+  });
+});
+</script>
