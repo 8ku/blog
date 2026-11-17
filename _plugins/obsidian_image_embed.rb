@@ -3,6 +3,7 @@
 Jekyll::Hooks.register :site, :pre_render do |site|
   image_root = File.join(site.source, 'assets', 'images')
   $obsidian_image_map = {}
+  $obsidian_baseurl = site.config['baseurl'] || ''
 
   next unless Dir.exist?(image_root)
 
@@ -27,7 +28,7 @@ Jekyll::Hooks.register [:pages, :documents], :pre_render do |doc|
     real_path = $obsidian_image_map[filename]
 
     if real_path
-      "![#{File.basename(filename, '.*')}](#{real_path})"
+      "![#{File.basename(filename, '.*')}](#{$obsidian_baseurl}#{real_path})"
     else
       Jekyll.logger.warn "ObsidianImages:", "No file found for ![[#{filename}]] in #{doc.relative_path}"
       "![#{filename}](MISSING:#{filename})"
