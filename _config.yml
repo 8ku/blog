@@ -182,6 +182,7 @@ kramdown:
   input: GFM
 highlighter : rouge
 permalink   : /:title.html
+image_path: /assets/images
 
 exclude:
   - CHANGELOG.md
