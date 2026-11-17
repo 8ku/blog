@@ -16,6 +16,6 @@ Some sentences from tv show Dark Matter
 > Life is long and surprising.
 
 
-![[20261117.jpeg]]
+
 
 
